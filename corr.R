@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 corr <- function(directory, threshold = 0) 
 {
         ## 'directory' is a character vector of length 1 indicating

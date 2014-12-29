@@ -1,4 +1,6 @@
 # UCIHAR Tidy Dataset
+Copyright (C) 2014 by Stephen Makonin.
+
 
 Once the R script has run a file called **UCIHARtidy.txt** is created. Here is a description of each column found in this dataset. The [description](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) of the original [UCI HAR dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) can explain in more detail some of the feature measurements listed below.
 

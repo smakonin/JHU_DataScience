@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 complete <- function(directory, id = 1:332) 
 {
         ## 'directory' is a character vector of length 1 indicating

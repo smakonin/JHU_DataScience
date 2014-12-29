@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 source("./rankhospital.R")
 
 rankall <- function(outcome, num = "best") 

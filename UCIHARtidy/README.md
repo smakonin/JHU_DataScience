@@ -1,4 +1,5 @@
-# TidyData
+# UCIHAR TidyData
+Copyright (C) 2014 by Stephen Makonin.
 
 Tidy Data - Getting and Cleaning Data Course Project
 

@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 library(plyr)
 library(reshape2)
 

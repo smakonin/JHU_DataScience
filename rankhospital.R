@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 rankhospital <- function(state, outcome, num = "best", d = NA) 
 {
         ## Read outcome data

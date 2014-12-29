@@ -1,3 +1,5 @@
+# Copyright (C) 2014 by Stephen Makonin.
+
 best <- function(state, outcome) 
 {
         ## Read outcome data
